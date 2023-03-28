@@ -67,6 +67,6 @@ void SysTick_Wait(uint32_t delay){
 void SysTick_Wait10ms(uint32_t delay){
   uint32_t i;
   for(i=0; i<delay; i++){
-    SysTick_Wait(480000);  // wait 10ms (assumes 120 MHz clock)
+    SysTick_Wait(200000);  // wait 10ms changed for clock here
   }
 }
