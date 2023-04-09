@@ -395,9 +395,9 @@
               <FilePath>.\SysTick.c</FilePath>
             </File>
             <File>
-              <FileName>Studio5_CodeTemplate.c</FileName>
+              <FileName>main.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\Studio5_CodeTemplate.c</FilePath>
+              <FilePath>.\main.c</FilePath>
             </File>
           </Files>
         </Group>

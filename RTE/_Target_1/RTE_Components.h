@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'Studio5' 
+ * Project: 'proj' 
  * Target:  'Target 1' 
  */
 
